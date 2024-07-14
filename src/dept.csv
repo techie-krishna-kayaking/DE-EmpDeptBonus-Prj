@@ -1,0 +1,28 @@
+DEPTNO,DNAME,LOC
+10,Administration,DEL
+20,Marketing,BMB
+30,Purchasing,DEL
+40,Human Resources,DEL
+50,Shipping,HYD
+60,IT,BNG
+70,Public Relations,HYD
+80,Sales,BNG
+90,Executive,BMB
+100,Finance,BMB
+110,Accounting,BMB
+120,Treasury,BMB
+130,Corporate Tax,HYD
+140,Control And Credit,BMB
+150,Shareholder Services,BMB
+160,Benefits,BNG
+170,Manufacturing,CHN
+180,Construction,CHN
+190,Contracting,BNG
+200,Operations,BNG
+210,IT Support,BNG
+220,NOC,BNG
+230,IT Helpdesk,BNG
+240,Government Sales,DEL
+250,Retail Sales,HYD
+260,Recruiting,BNG
+270,Payroll,BMB
