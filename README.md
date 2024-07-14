@@ -23,3 +23,6 @@ To run the project, execute the `main.py` script:
 ```bash
 python main.py
 ```
+
+## Author
+[Krishna Kayaking](https://github.com/techie-krishna-kayaking) - Creator and developer
